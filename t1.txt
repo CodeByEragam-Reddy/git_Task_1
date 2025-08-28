@@ -1,1 +1,1 @@
-text added to second branch into t1 file
+text added from second branch into t1 file
