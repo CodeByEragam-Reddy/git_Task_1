@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 text one in master branch 
+=======
+text added from second branch into t1 file
+>>>>>>> second
